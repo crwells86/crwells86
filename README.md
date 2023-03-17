@@ -8,6 +8,10 @@ One of my standout projects was with YesHog LLC, where I developed UNpkl 1.0 fro
 
 My dedication to delivering high-quality work and my expertise in Swift and various Apple frameworks make me a valuable asset to any team.
 
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/caleb-wells-38420911a)
+
 ## 💻 Skills
 
 - **Programming languages**: Swift
